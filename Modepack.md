@@ -1,22 +1,72 @@
 # 整合包汉化补丁
 
+## Fantasy Realm
+> [@cat酱-V7](https://vmct-cn.top/fantasy/)
+
+## Bliss
+> [@cat酱-1.0.7](https://vmct-cn.top/bliss/)
+
+## MC Eternal
+> [@VM汉化组-1.6.1](https://vmct-cn.top/mce/)
+
+## Age OF Fate
+> [@VM梓里孤辰-1.6.0](https://www.bilibili.com/read/cv20303430?spm_id_from=333.999.0.0)
+
+> [@VM汉化组-1.5.6](https://vmct-cn.top/fate/)
+
+## The Nuclear Wasteland
+> [@橡树树苗-0.2.5](https://vmct-cn.top/nuclear/)
+
+## Better MC Skyblock 
+> [@cat酱-1.0.7](https://vmct-cn.top/bettermc/)
+
+## FTB Sky Odyssey
+> [@捂脸祖-?](https://vmct-cn.top/odyssey/)
+
+## Age OF Fate The Frozen Hope
+> [@青岗-?](https://vmct-cn.top/fate2/)
+
+## Infinity Foundation
+> [@自尊寺-?](https://vmct-cn.top/if/)
+
+## Blackstone Block
+> [@自尊寺&神魔领预-？](https://vmct-cn.top/black/)
+
 ## Stoneblock3
-> [@VM汉化组-1.6.1](https://www.bilibili.com/read/cv21772959?spm_id_from=333.999.list.card_opus.click)
+> [@VM汉化组-1.6.1](https://vmct-cn.top/sb3/)
 
 ## FTB Inferno
 > [@安逸汉化组-1.3.0](https://www.anyijun.com/zhcn_down/?pid=32)
 
+## Rebirth of the Night
+> [@VM汉化组-3.1.1a](https://vmct-cn.top/rotn/)
+
 ## Andromeda Automation
 > [@安逸汉化组-7.6.1](https://www.anyijun.com/zhcn_down/?pid=31)
+
+## Vault Hunters 3rd Edition
+> [@VM汉化组-4.1](https://vmct-cn.top/vault/)
 
 ## FTB StoneBlock 3
 > [@安逸汉化组-1.3.0](https://www.anyijun.com/zhcn_down/?pid=30)
 
+## Roguelike Adventures and Dungeons
+> [@VM汉化组-1.53](https://vmct-cn.top/rad/)
+
 ## Restrict Skyblock
 > [@安逸汉化组-2.5](https://www.anyijun.com/zhcn_down/?pid=29)
 
+## Sky Bee 2
+> [自尊寺-1.4.1?](https://vmct-cn.top/bee/)
+
+## Caveopolis
+> [自尊寺-?](https://vmct-cn.top/cave/)
+
 ## Jetpack Cat
 > [@安逸汉化组-3.9](https://www.anyijun.com/zhcn_down/?pid=28)
+
+## FTB Presents Direwolf20 [未完成]
+> [@VM汉化组-?](https://vmct-cn.top/wolf/)
 
 ## Encrypted_
 > [@安逸汉化组-1.4](https://www.anyijun.com/zhcn_down/?pid=27)
